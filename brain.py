@@ -1,6 +1,6 @@
 import  threading
 import socket
-import pyiglet
+import pyfiglet
 a = pyfiglet.figlet_format("Geeks For Geeks")
 print(a)
 
